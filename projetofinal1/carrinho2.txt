@@ -1,0 +1,4 @@
+item: Qtd: Nome: Preço: SubTotal:
+1 1 Laptop 4999.0 4999.0
+2 2 Calça Jeans 199.99 399.98
+Total: 5398.98
